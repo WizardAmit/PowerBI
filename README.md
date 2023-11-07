@@ -15,3 +15,10 @@ Explored customer preferences by creating charts displaying the distribution of 
 
 # Insightful Visualization:
 Developed a funnel chart to compare the sales performance of different pizza categories, allowing for a visual comparison of the popularity and profitability of each category. These visualizations enhance understanding and decision-making for business strategies.
+
+
+
+
+
+![B](https://github.com/WizardAmit/PowerBI/assets/150200139/37cf2bad-1d22-40d9-a76f-c8c9566a54f0)
+![BI](https://github.com/WizardAmit/PowerBI/assets/150200139/fe878267-f81c-45cc-827b-1767a2efa137)
